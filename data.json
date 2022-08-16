@@ -1,0 +1,45 @@
+{
+  "elena": {
+    "spendings": [
+      {
+        "id": 1,
+        "description": "Groceries",
+        "amount": 50.5
+      },
+      {
+        "id": 4,
+        "description": "Dei",
+        "amount": 156.6
+      },
+      {
+        "id": 2,
+        "description": "Groceries",
+        "amount": 50.5
+      },
+      {
+        "id": 3,
+        "description": "Internet",
+        "amount": 11.5
+      }
+    ]
+  },
+  "george": {
+    "spendings": [
+      {
+        "id": 1,
+        "description": "Dei",
+        "amount": 156.6
+      },
+      {
+        "id": 2,
+        "description": "Groceries",
+        "amount": 50.5
+      },
+      {
+        "id": 3,
+        "description": "Internet",
+        "amount": 11.5
+      }
+    ]
+  }
+}
